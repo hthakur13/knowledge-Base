@@ -1,0 +1,19 @@
+ h1{
+    padding-left: 20px;
+}
+
+input{
+    padding-left: 10px;
+    margin-left: 20px;
+    align-items: center;
+    align-self: center;
+    max-width: 350px;
+}
+
+button{
+    padding-left: 10px;
+    margin-left: 20px;
+    align-items: center;
+    margin-top: 20px;
+    max-width: 150px;
+}

@@ -1,0 +1,40 @@
+/* src/components/Header.css */
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo-container {
+    margin-right: 15px;
+    padding: 2px;
+  }
+  
+  .logo-img {
+    width: 60px; /* Adjust size as needed */
+    height: 60px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the logo circular */
+    object-fit: contain; /* Ensures the entire logo is visible without cropping */
+    object-position: center; /* Centers the logo inside the container */
+    display: block;
+  }
+  
+  .header-title {
+    font-size: 24px;
+    color: #343a40;
+    margin: 0px;
+    margin-left: 170px;
+    
+  }
+
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  
